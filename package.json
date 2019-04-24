@@ -1,0 +1,22 @@
+{
+  "name": "monaco-editor-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsterooo/monaco-editor-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monsterooo/monaco-editor-sync/issues"
+  },
+  "homepage": "https://github.com/monsterooo/monaco-editor-sync#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
