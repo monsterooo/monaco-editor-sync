@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/monsterooo/monaco-editor-sync#readme",
   "dependencies": {
+    "mongoose": "^5.5.3",
     "socket.io": "^2.2.0"
   }
 }
